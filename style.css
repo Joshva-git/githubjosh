@@ -76,7 +76,7 @@ display: none;}
 
 .mylearning{position: relative;cursor: pointer;
 }
-.mylearning:hover .mylearning__popup { display: block;}
+.mylearning:hover.mylearning__popup { display: block;}
 
 .categories {
     display: flex;
